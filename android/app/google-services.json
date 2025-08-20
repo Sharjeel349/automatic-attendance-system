@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341029255599",
+    "project_id": "attandance-system-7c718",
+    "storage_bucket": "attandance-system-7c718.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341029255599:android:f69c27ff800dbb7e74575a",
+        "android_client_info": {
+          "package_name": "com.example.attandance_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdvve8RhAEhaUvd_vSRszXJrqTZkYGUKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
